@@ -15,7 +15,7 @@ export default function Footer() {
               </span>
             </div>
             <p className="mt-4 max-w-sm text-sm leading-relaxed text-muted">
-              make here a short note about me
+              I care about ownership, clean engineering and tools that make real work faster, and I'm always looking for AI-related projects to learn from.
             </p>
           </div>
 

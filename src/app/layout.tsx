@@ -11,9 +11,9 @@ const jost = Jost({
 });
 
 export const metadata: Metadata = {
-  title: "NineOrbit — 360° Digital Marketing Agency",
+  title: "Arun A - Java Full-Stack Developer",
   description:
-    "Websites, SEO, paid advertising, social media and ecommerce marketing — all under one roof. NineOrbit runs your digital presence as one connected system.",
+    "Full-stack developer building enterprise applications with Java, Spring Boot, React.js and PostgreSQL. Explore my projects, experience and career journey.",
 };
 
 export default function RootLayout({

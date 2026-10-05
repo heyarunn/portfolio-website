@@ -19,9 +19,9 @@ export const services = [
   },
   {
     icon: "🛒",
-    title: "Software Development",
-    desc: "Custom software tailored to solve real business problems.",
-    link: "Explore s/w development services",
+    title: "Cloud & Deployment",
+    desc: "Deploy, containerize, and run applications reliably using modern cloud infrastructure.",
+    link: "Explore deployment services",
   }
 ];
 
@@ -32,7 +32,7 @@ export const careers = [
     destination: "Nissan Digital India LLP",
     role: "Software Engineer I",
     period: "Sept 2022 – Present",
-    desc: "Building enterprise-level applications with a focus on full-stack development using Java, Spring Boot, React.js, and PostgreSQL. Built a microservices platform with Eureka and OpenFeign, and a Spring Cloud Gateway (WebFlux) for centralized JWT auth and routing. Contributed to the ROMDR automation platform used by 1,000+ enterprise users and improved report delivery time by 18%. Recognized with the Standing Ovation Award for ownership and strong contributions.",
+    desc: "Built enterprise full-stack apps with Java, Spring Boot, React.js and PostgreSQL, including a microservices Travel Desk platform and the ROMDR tool, earning the Standing Ovation Award.",
   },
   {
     no: "02",
@@ -48,7 +48,7 @@ export const careers = [
     destination: "PocketFM",
     role: "Translator",
     period: "Feb 2021 – Apr 2021",
-    desc: "During a 3-month internship at PocketFM, my primary responsibility was transcribing audio content in Malayalam, which was later used as input for AI language model training. This experience significantly improved my content development skills, particularly in transcription, and provided valuable exposure to AI-related projects.",
+    desc: "During a 3-month internship at PocketFM, I transcribed Malayalam audio used to train AI language models, building my content development skills and gaining exposure to AI projects.",
   },
 ];
 
@@ -98,7 +98,7 @@ export const projects = [
       "Seamless infinite-scrolling skills marquee",
       "Responsive, accessible, reduced-motion aware",
     ],
-    cta: "View project",
+    cta: "View Project",
     link: "/",
   },
   {
@@ -115,7 +115,7 @@ export const projects = [
       "Node.js backend for auth & storage",
       "Deployed on Netlify, versioned with Git",
     ],
-    cta: "View project",
+    cta: "View Project",
     link: "https://netlfix-clone-app-arunmec.netlify.app/",
   },
   {
@@ -131,7 +131,7 @@ export const projects = [
       "WhatsApp connectivity via whatsapp-web.js",
     ],
     cta: "View On Github",
-    link: "https://bitbucket.org/your-workspace/whatsapp-broadcasting",
+    link: "https://github.com/heyarunn/whatsapp-bulk-message-sender",
   },
 ];
 
