@@ -60,7 +60,7 @@ export const processFlow = [
 ];
 
 export const contact = {
-  phone: "+91 7356569164",
+  phone: "+91 7356469164",
   email: "arunalakkalpalla@gmail.com",
   location: "Trivandrum, Kerala",
   region: "Trivandrum, Kerala",
